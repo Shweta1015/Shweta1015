@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shweta1015&label=Profile%20views&color=0e75b6&style=flat" alt="shweta1015" /> </p>
 
-- 🔭 I’m currently working on **Social Bird**
 
 - 🌱 I’m currently learning **Spring Boot framework**
 
