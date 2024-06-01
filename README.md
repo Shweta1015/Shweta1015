@@ -65,16 +65,16 @@ I'm a passionate Java Full Stack Developer, highly skilled in HTML, CSS, Tailwin
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Shweta1015&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shweta Choudhary GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=shweta1015&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shweta Choudhary's GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shweta1015&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shweta1015&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages">
     </td>
   </tr>
 </table>
 
 <div align="center">
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta1015&theme=dark" alt="Shweta Choudhary's Streak Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta1015&theme=dark" alt="Shweta Choudhary">
   </p>
 </div>
