@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shweta Choudhary</h1>
-<h3 align="center">I'm a passionate Backend Developer, highly skilled in HTML, CSS, Tailwind CSS, Core Java , Advance java(Servlet, JSP, Spring ,SpringBoot) and Mysql,MonogoDb. I have completed my BCA (Bachelor of Computer Applications) degree from GH Raisoni, Nagpur.</h3>
+<h3 align="center">I'm a passionate Java Full Stack Developer, highly skilled in HTML, CSS, Tailwind CSS, Core Java , Advance java(Servlet, JSP, Spring ,SpringBoot) Mysql and MonogoDb. I have completed my BCA (Bachelor of Computer Applications) degree from GH Raisoni, Nagpur.</h3>
 
 <img align="right" alt="gif" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
