@@ -27,7 +27,7 @@ I'm a passionate Java Full Stack Developer, highly skilled in HTML, CSS, Tailwin
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" >
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" padding="20" >
   </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40">
