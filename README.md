@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-I'm a passionate Java Full Stack Developer, highly skilled in HTML, CSS, Tailwind CSS, Core Java , Advance Java(Servlet, JSP, Spring ,SpringBoot) Mysql and MonogoDb. I have completed my BCA (Bachelor of Computer Applications) degree from GH Raisoni, Nagpur.
+I'm a passionate Java Full Stack Developer, highly skilled in HTML, CSS, Tailwind CSS, Core Java , Advance Java(Servlet, JSP, Spring ,SpringBoot) Mysql and MonogoDb. I am pursuing my MCA (Master of Computer Applications) degree from GH Raisoni College of Engineering and Management (GHRCEM), Nagpur.
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
